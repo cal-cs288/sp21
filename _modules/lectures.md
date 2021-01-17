@@ -5,94 +5,91 @@ days:
     events:
       "Introduction 1":
         null
-  - date: 2020-01-23
+  - date: 2021-01-25
     events:
       "Introduction 2": null
       : null
-  - date: 2020-01-28
+  - date: 2021-01-27
     events:
       "Language Modeling":
         "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
-  - date: 2020-01-30
+  - date: 2021-02-01
     events:
       "Neural Networks":
         "[E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf); [G 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
-  - date: 2020-02-04
+  - date: 2021-02-03
     events:
       "Neural LMs 1":
         "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
       : null
-  - date: 2020-02-06
+  - date: 2021-02-08
     events:
       "Neural LMs 2":
         null
-  - date: 2020-02-11
+  - date: 2021-02-10
     events:
       "Neural LMs 3": null
-  - date: 2020-02-13
+  - date: 2021-02-17
     events:
       "Machine Translation": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
-  - date: 2020-02-18
+  - date: 2021-02-22
     events:
       "Statistical MT": "[Stat MT Book](http://statmt.org/book/)"
-  - date: 2020-02-20
+  - date: 2021-02-24
     events:
       "Neural MT 1": "[Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
-  - date: 2020-02-25
+  - date: 2021-03-01
     events:
       "Neural MT 2": null
-  - date: 2020-02-27
+  - date: 2021-03-03
     events:
       "Speech 1": null
       : null
-  - date: 2020-03-03
+  - date: 2021-03-08
     events:
       "Speech 2": null
-  - date: 2020-03-05
+  - date: 2021-03-10
     events:
       "Speech 3": null
-  - date: 2020-03-10
+  - date: 2021-03-15
     events:
       "Speech 4": null
-  - date: 2020-03-12
+  - date: 2021-03-17
     events:
       "Parsing 1": null
-  - date: 2020-03-17
+  - date: 2021-03-29
     events:
       "Parsing 2": null
-  - date: 2020-03-19
+  - date: 2021-03-31
     events:
       "Parsing 3": null
-  - date: 2020-03-31
+  - date: 2021-03-31
     events:
       "Neural Parsing": null
-  - date: 2020-04-02
+  - date: 2021-04-05
     events:
       "Multilingual Models": null
       : null
-  - date: 2020-04-07
+  - date: 2021-04-07
     events:
       "Interactive Translation": null
-  - date: 2020-04-09
+  - date: 2021-04-12
     events:
       "Semantics 1": null
-  - date: 2020-04-14
+  - date: 2021-04-14
     events:
       "Semantics 2": null
-  - date: 2020-04-16
+  - date: 2021-04-19
     events:
       "Language reconstructing": null
       : null
-  - date: 2020-04-21
+  - date: 2021-04-21
     events:
       "Grounding": null
-  - date: 2020-04-23
+  - date: 2021-04-26
     events:
       "TBD": null
-  - date: 2020-04-28
-    events:
-      "TBD": null
-  - date: 2020-04-30
+  - date: 2021-04-28
     events:
       "TBD": null
 ---

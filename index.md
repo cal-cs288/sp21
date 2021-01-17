@@ -9,7 +9,7 @@ description: >-
 
 # An Artificial Intelligence Approach to Natural Language Processing
 {: .mb-2 }
-Spring 2020
+Spring 2021
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% if site.announcements %}

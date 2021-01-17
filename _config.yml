@@ -17,7 +17,7 @@ title: CS 288
 description: Statistical Natural Language Processing
 author: Dan Klein and John DeNero
 email: ''
-baseurl: '/sp20' # the subpath of your site, e.g. /blog
+baseurl: '/sp21' # the subpath of your site, e.g. /blog
 url: 'https://cal-cs288.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 

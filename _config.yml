@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CS 288
 description: Statistical Natural Language Processing
-author: Dan Klein and John DeNero
+author: Dan Klein and Rodolfo Corona
 email: ''
 baseurl: '/sp21' # the subpath of your site, e.g. /blog
 url: 'https://cal-cs288.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 nav_links:
   Piazza:
-    - 'https://piazza.com/berkeley/spring2020/cs288'
+    - 'piazza.com/berkeley/spring2021/cs288'
   Gradescope:
     - 'https://gradescope.com'
 aux_links:

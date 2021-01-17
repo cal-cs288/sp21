@@ -42,7 +42,6 @@ days:
   - date: 2021-03-03
     events:
       "Speech 1": null
-      : null
   - date: 2021-03-08
     events:
       "Speech 2": null
@@ -67,7 +66,6 @@ days:
   - date: 2021-04-05
     events:
       "Multilingual Models": null
-      : null
   - date: 2021-04-07
     events:
       "Interactive Translation": null
@@ -80,7 +78,6 @@ days:
   - date: 2021-04-19
     events:
       "Language reconstructing": null
-      : null
   - date: 2021-04-21
     events:
       "Grounding": null

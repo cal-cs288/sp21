@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 nav_links:
   Piazza:
-    - 'piazza.com/berkeley/spring2021/cs288'
+    - 'https://piazza.com/berkeley/spring2021/cs288'
   Gradescope:
     - 'https://gradescope.com'
 aux_links:

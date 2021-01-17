@@ -34,9 +34,9 @@ Both texts are currently free online.
 
 ## Office Hours
 
-Professor office hours: Tuesdays 3:30-4:30pm; 781 Soda Hall
+Professor office hours: TBA
 
-GSI office hours: Thursdays 5:00-6:00pm; Soda Alcove 341B
+GSI office hours: TBA
 
 ## Late Work Policy
 

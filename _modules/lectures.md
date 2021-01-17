@@ -8,7 +8,6 @@ days:
   - date: 2021-01-25
     events:
       "Introduction 2": null
-      : null
   - date: 2021-01-27
     events:
       "Language Modeling":
@@ -21,7 +20,6 @@ days:
     events:
       "Neural LMs 1":
         "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
-      : null
   - date: 2021-02-08
     events:
       "Neural LMs 2":

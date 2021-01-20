@@ -38,47 +38,47 @@ days:
       "Neural MT 1": "[Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
   - date: 2021-03-03
     events:
-      "Neural MT 2": null
+      "Speech 1": null
   - date: 2021-03-08
     events:
-      "Speech 1": null
+      "Speech 2": null
   - date: 2021-03-10
     events:
-      "Speech 2": null
+      "Speech 3": null
   - date: 2021-03-15
     events:
-      "Speech 3": null
+      "Speech 4": null
   - date: 2021-03-17
     events:
-      "Speech 4": null
+      "Parsing 1": null
   - date: 2021-03-29
     events:
-      "Parsing 1": null
+      "Parsing 2": null
   - date: 2021-03-31
     events:
-      "Parsing 2": null
+      "Parsing 3": null
   - date: 2021-04-05
     events:
-      "Parsing 3": null
+      "Neural Parsing": null
   - date: 2021-04-07
     events:
-      "Neural Parsing": null
+      "Multilingual Models": null
   - date: 2021-04-12
     events:
-      "Multilingual Models": null
+      "Interactive Translation": null
   - date: 2021-04-14
     events:
-      "Interactive Translation": null
+      "Semantics 1": null
   - date: 2021-04-19
     events:
-      "Semantics 1": null
+      "Semantics 2": null
   - date: 2021-04-21
     events:
-      "Semantics 2": null
+      "Language reconstruction": null
   - date: 2021-04-26
     events:
-      "Language reconstruction": null
+      "Grounding": null
   - date: 2021-04-28
     events:
-      "Grounding / Dialog": null
+      "Dialog": null
 ---

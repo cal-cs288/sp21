@@ -77,7 +77,7 @@ days:
       "Semantics 2": null
   - date: 2021-04-26
     events:
-      "Language reconstructing": null
+      "Language reconstruction": null
   - date: 2021-04-28
     events:
       "Grounding / Dialog": null

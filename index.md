@@ -7,7 +7,7 @@ description: >-
     for developing course websites.
 ---
 
-# An Artificial Intelligence Approach to Natural Language Processing
+# Natural Language Processing
 {: .mb-2 }
 Spring 2021
 {: .mb-0 .fs-6 .text-grey-dk-000 }

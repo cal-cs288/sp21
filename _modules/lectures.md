@@ -3,7 +3,7 @@ title: Lectures
 days:
   - date: 2021-01-25
     events:
-      "Introduction 1":
+      "Introduction 1 ([1up](slides/SP21_CS288_01_Introduction_1up.pdf)) ([4up](slides/SP21_CS288_01_Introduction_4up.pdf))":
         null
   - date: 2021-01-27
     events:

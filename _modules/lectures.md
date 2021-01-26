@@ -3,8 +3,8 @@ title: Lectures
 days:
   - date: 2021-01-25
     events:
-      "Introduction 1 ([1up](slides/SP21_CS288_01_Introduction_1up.pdf)) ([4up](slides/SP21_CS288_01_Introduction_4up.pdf))":
-        null
+      "Introduction 1 ([1up](slides/SP21_CS288_01_Introduction_1up.pdf)) ([4up](slides/SP21_CS288_01_Introduction_4up.pdf))": null
+      "[Project 0](projects/proj0.html) (due Tuesday 02/02 11:59pm PT)": null
   - date: 2021-01-27
     events:
       "Introduction 2": null

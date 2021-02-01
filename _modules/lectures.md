@@ -10,7 +10,7 @@ days:
       "Introduction 2": null
   - date: 2021-02-01
     events:
-      "Language Modeling":
+      "Language Modeling ([1up](slides/SP21_CS288_02_LanguageModels_1up.pdf)) ([4up](slides/SP21_CS288_02_LanguageModels_4up.pdf))":
         "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
   - date: 2021-02-03
     events:

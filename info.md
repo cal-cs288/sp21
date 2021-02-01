@@ -40,4 +40,8 @@ GSI office hours: TBA
 
 ## Late Work Policy
 
-Programming projects must be turned in electronically by midnight on the listed due date. You will have a total of 7 slip days for these projects, up to four of which can be used for each project. Note that slip days are counted at the granularity of days, rounded up to the nearest day. For example, for a project due at midnight on Thursday, any submission from Thursday midnight - Friday midnight will use up one slip day, any submission from Friday midnight - Saturday midnight will use up two slip days, and so on.  Any submissions after the following Monday midnight would receive no credit.  We may allow more days to be used on a single project if you seek prior permission.
+Everyone will have 7 slip days they may use on any project throughout the semester, but you may only use up to 2 slip days on an individual project without prior consent from the instructors. 
+
+If you need to use more than 2 slip days on a project, please make a private post on piazza before the project deadline to let us know.
+
+Slip days will be counted by rounding up to the nearest day -- ie. if a project is due at 11:59pm on Tuesday and you submit at 12:00am on Wednesday, this will use up one of your slip days. Weekend days will count towards slip days as well, so there is no notion of business days here. 

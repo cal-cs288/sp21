@@ -22,8 +22,8 @@ days:
         "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2021-02-10
     events:
-      "Neural LMs 2":
-        null
+      "Neural LMs 2": null
+      "[Project 1](projects/proj1.html) (due Friday 02/26 11:59pm PT)": null
   - date: 2021-02-17
     events:
       "Neural LMs 3": null

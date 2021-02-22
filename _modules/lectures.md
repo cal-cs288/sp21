@@ -29,7 +29,7 @@ days:
       "Machine Translation ([1up](slides/SP21_CS288_03_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_03_Machine_Translation_4up.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
   - date: 2021-02-22
     events:
-      "Machine Translation": null
+      "Machine Translation": "[Philipp Koehn Slides] (slides/SP21_CS288_04_Statistical_Machine_Translation_1up.pdf)"
   - date: 2021-02-24
     events:
       "Statistical MT": "[Stat MT Book](http://statmt.org/book/)"

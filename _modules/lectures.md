@@ -14,22 +14,22 @@ days:
         "[J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)"
   - date: 2021-02-03
     events:
-      "Neural Networks":
+      "Neural LMs 1":
         "[E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf); [G 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2021-02-08
     events:
-      "Neural LMs 1":
+      "Neural LMs 2":
         "[J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)"
   - date: 2021-02-10
     events:
-      "Neural LMs 2": null
+      "Neural LMs 3": null
       "[Project 1](projects/proj1.html) (due Friday 02/26 11:59pm PT)": null
   - date: 2021-02-17
     events:
-      "Neural LMs 3": null
+      "Machine Translation": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
   - date: 2021-02-22
     events:
-      "Machine Translation": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
+      "Machine Translation": null
   - date: 2021-02-24
     events:
       "Statistical MT": "[Stat MT Book](http://statmt.org/book/)"

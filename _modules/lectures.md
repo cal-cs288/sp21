@@ -26,7 +26,7 @@ days:
       "[Project 1](projects/proj1.html) (due Friday 02/26 11:59pm PT)": null
   - date: 2021-02-17
     events:
-      "Machine Translation": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
+      "Machine Translation ([1up](slides/SP21_CS288_03_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_03_Machine_Translation_4up.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
   - date: 2021-02-22
     events:
       "Machine Translation": null

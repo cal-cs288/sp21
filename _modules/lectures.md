@@ -32,10 +32,10 @@ days:
       "Statistical MT": "[Philipp Koehn Slides](slides/SP21_CS288_04_Statistical_Machine_Translation_1up.pdf); [Stat MT Book](http://statmt.org/book/)"
   - date: 2021-02-24
     events:
-      "Neural MT ([1up](slides/SP21_CS288_05_Neural_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_05_Neural_Machine_Translation_4up.pdf))": "[Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
+      "Neural MT 1([1up](slides/SP21_CS288_05_Neural_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_05_Neural_Machine_Translation_4up.pdf))": "[Attention](https://arxiv.org/abs/1409.0473)"
   - date: 2021-03-01
     events:
-      "Neural MT": null
+      "Neural MT 2": "[Transformer](https://arxiv.org/abs/1706.03762)"
   - date: 2021-03-03
     events:
       "Speech 1": null

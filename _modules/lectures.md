@@ -29,13 +29,13 @@ days:
       "Machine Translation ([1up](slides/SP21_CS288_03_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_03_Machine_Translation_4up.pdf))": "[IBM Model 1](slides/lecture-ibm-model1.pdf)"
   - date: 2021-02-22
     events:
-      "Machine Translation": "([Philipp Koehn Slides](slides/SP21_CS288_04_Statistical_Machine_Translation_1up.pdf))"
+      "Statistical MT": "[Philipp Koehn Slides](slides/SP21_CS288_04_Statistical_Machine_Translation_1up.pdf); [Stat MT Book](http://statmt.org/book/)"
   - date: 2021-02-24
     events:
-      "Statistical MT": "[Stat MT Book](http://statmt.org/book/)"
+      "Neural MT ([1up](slides/SP21_CS288_05_Neural_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_05_Neural_Machine_Translation_4up.pdf))": "[Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
   - date: 2021-03-01
     events:
-      "Neural MT ([1up](slides/SP21_CS288_05_Neural_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_05_Neural_Machine_Translation_4up.pdf))": "[Attention](https://arxiv.org/abs/1409.0473) [Transformer](https://arxiv.org/abs/1706.03762)"
+      "Neural MT": null
   - date: 2021-03-03
     events:
       "Speech 1": null

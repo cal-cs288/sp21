@@ -33,6 +33,7 @@ days:
   - date: 2021-02-24
     events:
       "Neural MT 1([1up](slides/SP21_CS288_05_Neural_Machine_Translation_1up.pdf)) ([4up](slides/SP21_CS288_05_Neural_Machine_Translation_4up.pdf))": "[Attention](https://arxiv.org/abs/1409.0473)"
+      "[Project 2](projects/proj2.html) (due Monday 03/15 11:59pm PT)": null
   - date: 2021-03-01
     events:
       "Neural MT 2": "[Transformer](https://arxiv.org/abs/1706.03762)"

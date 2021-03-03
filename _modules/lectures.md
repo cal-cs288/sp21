@@ -39,7 +39,7 @@ days:
       "Neural MT 2": "[Transformer](https://arxiv.org/abs/1706.03762)"
   - date: 2021-03-03
     events:
-      "Speech 1" ([1up](slides/SP21_CS288_05_Speech_1up.pdf)) ([4up](slides/SP21_CS288_05_Speech_4up.pdf))": null
+      "Speech 1 ([1up](slides/SP21_CS288_05_Speech_1up.pdf)) ([4up](slides/SP21_CS288_05_Speech_4up.pdf))": null
   - date: 2021-03-08
     events:
       "Speech 2": null

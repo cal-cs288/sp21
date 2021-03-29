@@ -51,13 +51,13 @@ days:
       "Speech 4": null
   - date: 2021-03-17
     events:
-      "Parsing 1": null
+      "Speech 5": null
   - date: 2021-03-29
     events:
-      "Parsing 2": null
+      "Parsing 1 ([1up](slides/SP21_CS288_06_Syntax_and_Parsing_1up.pdf)) ([4up](slides/SP21_CS288_06_Syntax_and_Parsing_4up.pdf))": null
   - date: 2021-03-31
     events:
-      "Parsing 3": null
+      "Parsing 2": null
   - date: 2021-04-05
     events:
       "Neural Parsing": null

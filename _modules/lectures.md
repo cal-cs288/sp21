@@ -58,6 +58,7 @@ days:
   - date: 2021-03-31
     events:
       "Parsing 2": null
+      "[Project 3](projects/proj3.html) (due Monday 04/19 11:59pm PT)": null
   - date: 2021-04-05
     events:
       "Neural Parsing": null

@@ -61,16 +61,16 @@ days:
       "[Project 3](projects/proj3.html) (due Monday 04/19 11:59pm PT)": null
   - date: 2021-04-05
     events:
-      "Neural Parsing": null
+      "Parsing 3": null
   - date: 2021-04-07
     events:
-      "Multilingual Models": null
+      "Parsing 4": null
   - date: 2021-04-12
     events:
-      "Interactive Translation": null
+      "Parsing 5": null
   - date: 2021-04-14
     events:
-      "Semantics 1": null
+      "Semantics 1 ([1up](slides/SP21_CS288_07_Compositional_Semantics_1up.pdf)) ([4up](slides/SP21_CS288_07_Compositional_Semantics_4up.pdf))": null
   - date: 2021-04-19
     events:
       "Semantics 2": null

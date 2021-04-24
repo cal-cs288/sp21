@@ -74,6 +74,7 @@ days:
   - date: 2021-04-19
     events:
       "Semantics 2": null
+      "[Project 4](projects/proj4.html) (due Friday 05/07 11:59pm PT)": null
   - date: 2021-04-21
     events:
       "Language reconstruction": null
